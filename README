@@ -1,0 +1,11 @@
+Eric Bakan's Arduino Library
+
+This is a repository where I can keep all the sketches I write for my Arduino.
+
+So far I've only written basic stuff because I lack any other components, but I am in the process of building an Arduino-based Monome clone and other sound-related projects.
+
+The Makefile is a modified version of the file found at the following location: https://linvinus.ru/dokuwiki/doku.php?id=robot:arduino_makefile
+
+This software is released under the GPL "as-is" without any warranty.
+Copyright (C) 2011 by Eric Bakan.
+
